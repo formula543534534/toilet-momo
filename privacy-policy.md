@@ -117,4 +117,4 @@ When we update it, we will change the effective date at the top of this page. Co
 
 If you have questions about this Privacy Policy, you can contact us at:
 
-0137jlin@gmail.com
+support@toiletmomo.com
