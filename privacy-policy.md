@@ -1,119 +1,126 @@
-# Privacy Policy for Toilet Momo
+Privacy Policy
 
-Effective date: June 1, 2026
+Last updated: June 19, 2026
 
-Toilet Momo is a stool diary and wellness tracking app. It helps users record bowel movement details, daily context, reminders, summaries, and doctor-ready reports.
+Toilet Momo is a private lifestyle diary app for recording bowel movement notes, daily context, and personal patterns over time.
 
-This Privacy Policy explains what information the app handles and how it is used.
+This Privacy Policy explains what information the app stores, how it is used, and what choices you have.
 
-## 1. Important health notice
+1. What Toilet Momo is
 
-Toilet Momo does not provide medical diagnosis, treatment, or medical advice.
+Toilet Momo is a personal diary and archive app. It helps you record entries such as stool form, color, effort, food notes, water, sleep, stress, activity, and other personal notes.
 
-The app helps users record observations such as stool form, color, effort, frequency, symptoms, food, water, sleep, stress, and other daily context. Any conclusions, diagnosis, or treatment decisions should be made by a qualified healthcare professional.
+The app may organize your entries into a calendar, summaries, reminders, pattern views, and exportable PDF summaries.
 
-## 2. Information stored in the app
+Toilet Momo does not diagnose, treat, prevent, or manage any disease or medical condition. It is not a medical device and does not replace professional advice.
 
-Toilet Momo may allow you to record:
+2. Information you enter in the app
 
-- bowel movement dates and times;
-- stool form, color, size, and effort;
-- notes such as pain, blood, mucus, gas, bloating, cramps, or other signs;
-- food and drink context, such as coffee, dairy, spicy food, alcohol, sweets, water intake, and similar factors;
-- lifestyle context, such as sleep, stress, activity, menstruation, medication, or laxative use;
-- app settings, such as language, reminders, haptic feedback, sounds, and privacy options;
-- subscription or purchase status.
+You may choose to record information such as:
 
-This information is used to show your diary, calendar, summaries, statistics, reminders, experiments, doctor mode, and PDF reports.
+bowel movement entries;
+date and time;
+stool form and color;
+effort, size, and frequency;
+food and water notes;
+sleep, stress, activity, and other daily context;
+personal notes;
+reminders and app settings;
+exported summaries if you choose to create them.
 
-## 3. Local storage
+This information is entered by you and is used to provide the diary, calendar, summaries, reminders, and export features inside the app.
 
-Toilet Momo is designed to store diary data locally on your device.
+3. Local storage
 
-We do not operate a server that collects your stool diary entries. Your diary records are not uploaded to us automatically.
+Toilet Momo is designed as a local-first private diary.
 
-If you delete the app or clear app data, your locally stored diary may be lost unless you exported or backed it up yourself.
+Your diary entries are stored on your device. Toilet Momo does not automatically upload your diary entries to a server operated by us.
 
-## 4. PDF export and sharing
+If you delete the app or clear its local data, your diary data may be deleted from your device.
 
-The app may allow you to create a PDF report for a doctor or for your own records.
+4. PDF export and sharing
 
-PDF files are created only when you choose to create or export them. If you send, share, upload, print, or store a PDF outside the app, that action is controlled by you and by the third-party apps or services you choose to use.
+Toilet Momo may let you create an exportable PDF summary of your own diary records.
 
-## 5. Purchases and subscriptions
+Creating, saving, sending, or sharing an exported file is your choice. Once you share or store an exported file outside the app, that file is controlled by the apps, services, or people you choose to share it with.
 
-Toilet Momo may offer paid access, subscriptions, or one-time purchases.
+5. Reminders and notifications
 
-Payments are processed by Google Play. We do not collect or store your payment card details. Google Play may provide the app with purchase status information, such as whether a subscription or purchase is active, so that PRO+ access can be unlocked.
+Toilet Momo may send local reminders if you enable them.
 
-For more information about how Google handles payment data, please refer to Google’s privacy policy.
+Reminder settings are used only to provide the reminder feature. You can change or disable reminders in the app or in your device settings.
 
-## 6. Notifications
+6. Purchases and subscriptions
 
-Toilet Momo may ask for permission to send notifications.
+Toilet Momo may offer paid features, subscriptions, trials, or one-time purchases.
 
-Notifications may be used for reminders, experiments, or diary-related prompts. You can disable notifications in the app settings or in your device settings.
+Payments are processed by Google Play or another app store payment provider. We do not receive or store your full payment card details.
 
-## 7. App permissions
+The app may receive purchase status information from the app store to unlock paid features.
 
-Depending on your device and settings, Toilet Momo may request permissions such as:
+7. Accounts
 
-- notifications, for reminders;
-- vibration or haptic feedback, for interface feedback;
-- storage or sharing access, when creating or exporting files, if required by the operating system.
+Toilet Momo does not require you to create an account to use the diary.
 
-The app only uses these permissions to provide the features you choose to use.
+8. Ads
 
-## 8. Advertising and tracking
+Toilet Momo does not use your diary entries for advertising.
 
-Toilet Momo does not currently show third-party ads.
+If advertising is added in the future, this Privacy Policy will be updated to explain what changes.
 
-Toilet Momo does not sell your personal information.
+9. Analytics and diagnostics
 
-Toilet Momo does not use your diary entries for third-party advertising.
+Toilet Momo does not use your diary entries to build advertising profiles.
 
-## 9. Children
+If the app uses basic store, crash, or diagnostic information provided by Google Play or the operating system, that information is used to understand app performance and fix technical issues. This information does not include the diary entries you write inside the app.
 
-Toilet Momo is not intended for children under 13.
+10. Data sharing
 
-The app is intended for users who can understand that it is a diary and wellness tracking tool, not a medical diagnosis tool.
+We do not sell your personal information.
 
-## 10. Third-party services
+We do not sell your diary entries.
 
-The app may rely on platform services provided by Google Play, such as:
+We do not share your diary entries with advertisers.
 
-- Google Play Billing, for subscriptions and purchases;
-- Google Play services, where required by Android or Google Play.
+Your diary content remains on your device unless you choose to export, send, back up, or otherwise share it yourself.
 
-These services are provided by Google and are governed by Google’s own privacy policies and terms.
+11. Data retention
 
-## 11. Data security
+Your diary entries remain on your device until you delete them, reset the app data, or uninstall the app.
 
-Because diary data is stored locally on your device, protecting your device helps protect your data.
+Exported files remain wherever you choose to save or share them.
 
-Toilet Momo may provide privacy features such as a PIN lock. A PIN lock helps protect access inside the app, but it is not a replacement for securing your device with a strong screen lock.
+Purchase records may be retained by Google Play or another app store payment provider according to their own policies.
 
-No method of digital storage is completely secure, but the app is designed to avoid unnecessary collection or transmission of sensitive diary data.
+12. Children
 
-## 12. Data deletion
+Toilet Momo is not intended for children.
 
-You can delete your diary data by using the app’s reset/delete options, if available, or by deleting the app data from your device settings.
+The app is designed for users who can manage their own personal diary and app settings.
 
-You can also uninstall the app from your device.
+13. Security
 
-If you purchased a subscription or one-time product through Google Play, purchase records are handled by Google Play according to Google’s policies.
+Toilet Momo is designed to keep diary records local to your device.
 
-## 13. International users
+However, no device, app, or storage method can be guaranteed to be perfectly secure. Please protect your device with the security options available to you, such as a screen lock.
 
-Toilet Momo may be available in multiple countries. Because the app stores diary data locally on your device and does not automatically upload diary entries to our servers, your diary data generally remains on your device unless you choose to export or share it.
+14. Your choices
 
-## 14. Changes to this Privacy Policy
+You can:
+
+choose what to record;
+edit or delete entries in the app;
+turn reminders on or off;
+create or delete exported files;
+uninstall the app;
+clear app data through your device settings.
+15. Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time.
 
-When we update it, we will change the effective date at the top of this page. Continued use of the app after changes means you accept the updated policy.
+When we make changes, we will update the “Last updated” date at the top of this page.
 
-## 15. Contact
+16. Contact
 
 If you have questions about this Privacy Policy, you can contact us at:
 
